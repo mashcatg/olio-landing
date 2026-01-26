@@ -31,7 +31,7 @@
     <loc>https://www.tryolio.app/blog</loc>
     <priority>0.8</priority>
   </url>
-
+  
   <!-- Dashboard pages -->
   <url>
     <loc>https://dashboard.tryolio.app/</loc>
